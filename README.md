@@ -1,3 +1,5 @@
+
+
 # Hi there 👋 I'm Ramiro 🧑‍💻
 
 Bachelor Engineering Systems UIS :white_check_mark:
@@ -9,4 +11,7 @@ Bachelor Engineering Systems UIS :white_check_mark:
 
 ## 📊 Ramiro's GitHub Stats
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramiro999&show_icons=true&locale=en&layout=compact" alt="ramiro999" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramiro999&show_icons=true&locale=en" alt="ramiro999" /></p>
 
