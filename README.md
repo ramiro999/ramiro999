@@ -1,4 +1,4 @@
-<img src="second-image.png" alt="fondo">
+<img src="Captura desde 2023-10-31 23-54-59.png" alt="fondo">
 
 <div align="center">
   <h1>Hi there 👋 I'm Ramiro Avila 🧑‍💻</h1>
