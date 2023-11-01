@@ -29,10 +29,11 @@ Systems engineering student passionate about creating web and mobile application
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/ramiro-avila-chacon/) [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram)](URL_DE_INSTAGRAM)
-
-## 📊 Ramiro's GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramiro999&show_icons=true&locale=en&layout=compact" alt="ramiro999" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramiro999&show_icons=true&locale=en" alt="ramiro999" /></p>
+<div align="center">
+<h2>📊 Ramiro's GitHub Stats</h2>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ramiro999&count_private=true&include_all_commits=true&hide_border=true&theme=nord" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro999&layout=compact&card_width=250&langs_count=8&hide_border=true&theme=nord"/>
+</div>
 
