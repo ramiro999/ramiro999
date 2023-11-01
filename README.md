@@ -1,4 +1,4 @@
-<img src="code.png" alt="fondo">
+<img src="second-image.png" alt="fondo">
 
 <div align="center">
   <h1>Hi there 👋 I'm Ramiro Avila 🧑‍💻</h1>
