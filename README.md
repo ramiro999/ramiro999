@@ -14,7 +14,7 @@ Systems engineering student passionate about creating web and mobile application
 
 - :fire: Now I am learning React
 - :bulb: Passionate about technology
-<div style="display: inline-block;">
+<div style="display: inline-block;" align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -28,7 +28,6 @@ Systems engineering student passionate about creating web and mobile application
 
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/ramiro-avila-chacon/) [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram)](URL_DE_INSTAGRAM)
 <div align="center">
 <h2>📊 Ramiro's GitHub Stats</h2>
 </div>
