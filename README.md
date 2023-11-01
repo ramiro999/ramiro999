@@ -34,6 +34,5 @@ Systems engineering student passionate about creating web and mobile application
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ramiro999&count_private=true&include_all_commits=true&hide_border=true&theme=nord" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro999&layout=compact&card_width=250&langs_count=8&hide_border=true&theme=nord"/>
 </div>
 
