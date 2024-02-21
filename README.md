@@ -12,7 +12,7 @@
 Systems engineering student passionate about creating web and mobile applications, as well as studying models and applications of artificial intelligence. I contribute to projects on a personal and team level and love learning new technologies.🚀
 
 
-- :fire: Now I am learning React
+- :fire: Now I am learning Next.js
 - :bulb: Passionate about technology
 <div style="display: inline-block;" align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
