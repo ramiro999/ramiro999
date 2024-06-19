@@ -1,5 +1,5 @@
 <div align="center">
-<img src="image_banner.png" alt="fondo">
+<img src="automous-driving.jpeg" alt="fondo">
 </div>
 <div align="center">
   <h1>Hi there 👋 I'm Ramiro Avila 🧑‍💻</h1>
