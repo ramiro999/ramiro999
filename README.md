@@ -11,10 +11,10 @@
 
 Systems Engineering student passionate about Computer Vision and Deep Learning. I am constantly looking for new opportunities to apply my knowledge in web and mobile application development, as well as in the exploration of artificial intelligence models and applications.🚀
 
-
+- 💬 Talking about Deep Learning, AI, Computer Vision, Robotics
 - :fire: Now I am learning Next.js
 - :bulb: Passionate about technology
-- 💬 Talking about Deep Learning, AI, Computer Vision, Robotics
+
 <div style="display: inline-block;" align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
