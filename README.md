@@ -9,7 +9,7 @@
   <h2> Bachelor's in Engineering Systems at UIS :white_check_mark: </h2>
 </div>
 
-Systems engineering student passionate about creating web and mobile applications, as well as studying models and applications of artificial intelligence. I contribute to projects on a personal and team level and love learning new technologies.🚀
+Systems Engineering student passionate about Computer Vision and Deep Learning. I am constantly looking for new opportunities to apply my knowledge in web and mobile application development, as well as in the exploration of artificial intelligence models and applications.🚀
 
 
 - :fire: Now I am learning Next.js
