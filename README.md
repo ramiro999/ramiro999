@@ -12,7 +12,6 @@
 Systems Engineering student passionate about Computer Vision and Deep Learning. I am constantly looking for new opportunities to apply my knowledge in web and mobile application development, as well as in the exploration of artificial intelligence models and applications.🚀
 
 - 💬 Talking about Deep Learning, AI, Computer Vision, Robotics
-- :fire: Now I am learning Next.js
 - :bulb: Passionate about technology
 
 <div style="display: inline-block;" align="center">
