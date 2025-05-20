@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h2> Systems Engineering Student at UIS :white_check_mark: </h2>
+  <h2> Systems Engineer</h2>
 </div>
 
 Systems Engineering student passionate about Computer Vision and Deep Learning. I am constantly looking for new opportunities to apply my knowledge in web and mobile application development, as well as in the exploration of artificial intelligence models and applications.🚀
