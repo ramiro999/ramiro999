@@ -2,7 +2,7 @@
 <img src="1746566079972.jpg" alt="fondo">
 </div>
 <div align="center">
-  <h1>Hi there 👋 I'm Ramiro Avila 🧑‍💻</h1>
+  <h1>Hi 👋 I'm Ramiro Avila 🧑‍💻</h1>
 </div>
 
 <div align="center">
