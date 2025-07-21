@@ -9,7 +9,7 @@
   <h2> Systems Engineer</h2>
 </div>
 
-Systems Engineering student passionate about Computer Vision and Deep Learning. I am constantly looking for new opportunities to apply my knowledge in web and mobile application development, as well as in the exploration of artificial intelligence models and applications.🚀
+Systems Engineer passionate about Computer Vision and Deep Learning. I am constantly looking for new opportunities to apply my knowledge in web and mobile application development, as well as in the exploration of artificial intelligence models and applications.🚀
 
 - 💬 Talking about Deep Learning, AI, Computer Vision, Robotics
 - :bulb: Passionate about technology
